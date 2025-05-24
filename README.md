@@ -34,12 +34,17 @@ I run a programming YouTube channel called Somos Juniors, where I share tutorial
 
 
 🌿 Exploring nature
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Github stats:
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/ivanrubisel">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ivanrubisel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ivanrubisel&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
 
