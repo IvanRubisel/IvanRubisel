@@ -1,44 +1,47 @@
 <h1 align="center">Hi , I'm Ivan Rubisel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+👨‍💻 About Me
+Hi, I'm Iván Rubisel Gutiérrez, a Software Development and Management Engineer specialized in full-stack web development with Laravel.
 
-👋 Hi, I'm Iván Rubisel Gutiérrez — a Software Development and Management Engineer specialized in full-stack web development with Laravel.
-
-🚀 I build modern web applications using the TALL stack (Tailwind CSS, Alpine.js, Laravel, Livewire) and have strong expertise in:
+🚀 I build modern web applications using the TALL stack (Tailwind CSS, Alpine.js, Laravel, and Livewire), and I have solid experience in:
 
 PHP (Laravel)
 
 JavaScript (Vanilla & Alpine.js)
 
-HTML/CSS
+HTML/CSS (with Tailwind CSS)
 
-React and React Native (for mobile development)
+React & React Native (for mobile development)
 
-🎯 I'm passionate about building creative, productive, and user-focused solutions — always learning, always improving.
+VPS configuration and deployment
 
-📚 I also run a programming YouTube channel Somos Juniors where I share tutorials, tips, and tech advice for junior developers.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+🎨 I'm also interested in web design and Android development.
 
-__Check out my GitHub repository:__
+🌱 Currently learning:
 
-<div>
-  <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+React.js
 
+Flutter
+
+🎯 I'm passionate about building creative, productive, and user-centered solutions. I'm always learning, improving, and exploring new technologies.
+
+👯 I'm open to collaborating on open source projects and sharing knowledge with the dev community.
+
+💬 Feel free to ask me anything — just make sure the variable is inside the function! 😉
+
+🎥 Extra
+I run a programming YouTube channel called Somos Juniors, where I share tutorials, tips, and technical recommendations for junior developers.
+
+🌱 Outside of Tech
+When I'm not coding, I enjoy:
+
+📖 Reading
+
+🎹 Singing and playing keyboard
+
+🎵 Listening to music
+
+🌿 Exploring nature
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
