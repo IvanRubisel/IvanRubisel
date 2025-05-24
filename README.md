@@ -19,11 +19,7 @@ Hi, I'm Iván Rubisel Gutiérrez, a Software Development and Management Engineer
 
 🎨 I'm passionate about web design and Android development.
 
-🌱 Currently learning:
-
-React.js
-
-Flutter
+🌱 Currently learning: (React.js, Flutter)
 
 🎯 I'm passionate about building creative, productive, and user-centered solutions. I'm always learning, improving, and exploring new technologies.
 
