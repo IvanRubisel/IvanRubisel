@@ -17,7 +17,7 @@ Hi, I'm Iván Rubisel Gutiérrez, a Software Development and Management Engineer
 
 🌐 VPS configuration and deployment (Linux servers, Nginx, etc.)
 
-🎨 I'm also interested in web design and Android development.
+🎨 I'm passionate about web design and Android development.
 
 🌱 Currently learning:
 
@@ -34,14 +34,6 @@ Flutter
 🎥 Extra
 I run a programming YouTube channel called Somos Juniors, where I share tutorials, tips, and technical recommendations for junior developers.
 
-🌱 Outside of Tech
-When I'm not coding, I enjoy:
-
-📖 Reading
-
-🎹 Singing and playing keyboard
-
-🎵 Listening to music
 
 🌿 Exploring nature
 ### ⚙️ &nbsp;GitHub Analytics
