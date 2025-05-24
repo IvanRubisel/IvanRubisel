@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Ivan Rubisel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="[https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fes%2FemT&psig=AOvVaw2amLeu0NlptJK_VID2CTLz&ust=1748142699159000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjWoKeRu40DFQAAAAAdAAAAABAE)" />
 👨‍💻 About Me
 
 
