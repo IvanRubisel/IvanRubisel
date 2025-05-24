@@ -7,18 +7,12 @@ Hi, I'm Iván Rubisel Gutiérrez, a Software Development and Management Engineer
 
 🚀 I build modern web applications using the TALL stack (Tailwind CSS, Alpine.js, Laravel, and Livewire), and I have solid experience in:
 
-PHP (Laravel)
-
-JavaScript ( Alpine.js)
-
-HTML/CSS (with Tailwind CSS)
-
-React & React Native (for mobile development)
-
-VPS configuration and deployment
-
+🐘 PHP (Laravel)
+⚙️ JavaScript (Alpine.js)
+🎨 HTML/CSS (with Tailwind CSS)
+⚛️ React & React Native (for mobile development)
+🌐 VPS configuration and deployment (Linux servers, Nginx, etc.)
 🎨 I'm also interested in web design and Android development.
-
 🌱 Currently learning:
 
 React.js
