@@ -2,13 +2,14 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 👨‍💻 About Me
 
+
 Hi, I'm Iván Rubisel Gutiérrez, a Software Development and Management Engineer specialized in full-stack web development with Laravel.
 
 🚀 I build modern web applications using the TALL stack (Tailwind CSS, Alpine.js, Laravel, and Livewire), and I have solid experience in:
 
 PHP (Laravel)
 
-JavaScript (Vanilla & Alpine.js)
+JavaScript ( Alpine.js)
 
 HTML/CSS (with Tailwind CSS)
 
