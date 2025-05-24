@@ -2,7 +2,21 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+👋 Hi, I'm Iván Rubisel Gutiérrez — a Software Development and Management Engineer specialized in full-stack web development with Laravel.
+
+🚀 I build modern web applications using the TALL stack (Tailwind CSS, Alpine.js, Laravel, Livewire) and have strong expertise in:
+
+PHP (Laravel)
+
+JavaScript (Vanilla & Alpine.js)
+
+HTML/CSS
+
+React and React Native (for mobile development)
+
+🎯 I'm passionate about building creative, productive, and user-focused solutions — always learning, always improving.
+
+📚 I also run a programming YouTube channel Somos Juniors where I share tutorials, tips, and tech advice for junior developers.
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
   - Java
