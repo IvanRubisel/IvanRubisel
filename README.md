@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Ivan Rubisel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img align="right" width="500px" alt="Coding GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXp3ZWJ1cGRrdTd5Ynd0MTkwZWxsNWZlb3hmeWRpbXp1MHQ1bjVlZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" width="500px" alt="Coding GIF" src="https://media.giphy.com/media/l7zabeVIt16efVp6wg/giphy.gif?cid=ecf05e4734ukmxxn612ta19p3eosoysry02c7tyf6y5u2w3r&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 
 
 👨‍💻 About Me
